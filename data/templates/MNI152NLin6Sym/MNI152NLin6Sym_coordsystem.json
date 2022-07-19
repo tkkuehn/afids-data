@@ -1,0 +1,168 @@
+{
+    "IntendedFor": "anat/*_space-T1w_desc-groundtruth_afids.fcsv",
+    "FiducialsCoordinateSystem": "RAS",
+    "FiducialsCoordinateUnits": "mm",
+    "FiducialsCoordinateSystemDescription": "RAS orientation: Origin halfway between LPA and RPA, positive x-axis towards RPA, positive y-axis orthogonal to x-axis through Nasion,  z-axis orthogonal to xy-plane, pointing in superior direction.",
+    "FiducialsCoordinates": {
+        "AC": [
+            -0.0027499999999999,
+            2.5065,
+            -4.1025
+        ],
+        "PC": [
+            -0.0134999999999999,
+            -25.246,
+            -2.14525
+        ],
+        "infracollicular sulcus": [
+            -0.04325,
+            -37.381,
+            -11.91
+        ],
+        "PMJ": [
+            -0.045,
+            -23.98775,
+            -21.08325
+        ],
+        "superior interpeduncular fossa": [
+            -0.01825,
+            -13.46425,
+            -10.9435
+        ],
+        "R superior LMS": [
+            12.65625,
+            -26.993,
+            -9.84775
+        ],
+        "L superior LMS": [
+            -12.9745,
+            -26.796750000000003,
+            -9.88975
+        ],
+        "R inferior LMS": [
+            10.8815,
+            -31.0735,
+            -21.94925
+        ],
+        "L inferior LMS": [
+            -10.83325,
+            -31.1095,
+            -21.926
+        ],
+        "culmen": [
+            0.0055,
+            -53.563,
+            2.02025
+        ],
+        "intermammillary sulcus": [
+            -0.06275,
+            -8.10725,
+            -15.47
+        ],
+        "R MB": [
+            2.23475,
+            -8.14125,
+            -14.59975
+        ],
+        "L MB": [
+            -2.4762500000000003,
+            -8.14725,
+            -14.62125
+        ],
+        "pineal gland": [
+            -0.06025,
+            -31.80925,
+            1.04025
+        ],
+        "R LV at AC": [
+            15.232,
+            4.07225,
+            24.734
+        ],
+        "L LV at AC": [
+            -15.20475,
+            4.044,
+            24.799
+        ],
+        "R LV at PC": [
+            18.6545,
+            -23.72525,
+            26.94025
+        ],
+        "L LV at PC": [
+            -18.4735,
+            -23.73575,
+            27.1125
+        ],
+        "genu of CC": [
+            -0.0485,
+            33.619,
+            2.9905
+        ],
+        "splenium of CC": [
+            -0.04575,
+            -37.903,
+            6.6392500000000005
+        ],
+        "R AL temporal horn": [
+            34.1785,
+            -6.751,
+            -25.7565
+        ],
+        "L AL temporal horn": [
+            -34.300250000000005,
+            -6.83225,
+            -25.67375
+        ],
+        "R superior AM temporal horn": [
+            19.13525,
+            -10.78025,
+            -16.93425
+        ],
+        "L superior AM temporal horn": [
+            -19.17075,
+            -10.82125,
+            -16.899250000000002
+        ],
+        "R inferior AM temporal horn": [
+            21.55525,
+            -5.1635,
+            -27.14675
+        ],
+        "L inferior AM temporal horn": [
+            -21.43575,
+            -4.77325,
+            -27.136000000000003
+        ],
+        "R indusium griseum origin": [
+            13.57075,
+            -42.54575,
+            5.10075
+        ],
+        "L indusium griseum origin": [
+            -14.163999999999998,
+            -42.568250000000006,
+            5.109
+        ],
+        "R ventral occipital horn": [
+            20.907000000000004,
+            -78.422,
+            5.17825
+        ],
+        "L ventral occipital horn": [
+            -20.80825,
+            -78.37125,
+            5.078250000000001
+        ],
+        "R olfactory sulcal fundus": [
+            12.6275,
+            18.14575,
+            -12.206
+        ],
+        "L olfactory sulcal fundus": [
+            -12.64125,
+            17.96375,
+            -12.3105
+        ]
+    }
+}

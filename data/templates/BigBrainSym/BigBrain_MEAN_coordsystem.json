@@ -1,0 +1,168 @@
+{
+    "IntendedFor": "anat/*_space-T1w_desc-groundtruth_afids.fcsv",
+    "FiducialsCoordinateSystem": "RAS",
+    "FiducialsCoordinateUnits": "mm",
+    "FiducialsCoordinateSystemDescription": "RAS orientation: Origin halfway between LPA and RPA, positive x-axis towards RPA, positive y-axis orthogonal to x-axis through Nasion,  z-axis orthogonal to xy-plane, pointing in superior direction.",
+    "FiducialsCoordinates": {
+        "AC": [
+            0.265,
+            2.6205,
+            -4.1925
+        ],
+        "PC": [
+            0.1965,
+            -25.3475,
+            -2.4835
+        ],
+        "infracollicular sulcus": [
+            0.4325,
+            -39.0585,
+            -16.3025
+        ],
+        "PMJ": [
+            0.465,
+            -22.9715,
+            -21.68
+        ],
+        "superior interpeduncular fossa": [
+            0.1885,
+            -12.8125,
+            -10.9745
+        ],
+        "R superior LMS": [
+            12.7105,
+            -27.041,
+            -10.1395
+        ],
+        "L superior LMS": [
+            -12.4665,
+            -27.064,
+            -10.7585
+        ],
+        "R inferior LMS": [
+            10.599,
+            -30.311,
+            -22.488
+        ],
+        "L inferior LMS": [
+            -10.1095,
+            -30.4125,
+            -23.7145
+        ],
+        "culmen": [
+            0.181,
+            -43.383,
+            4.344
+        ],
+        "intermammillary sulcus": [
+            -0.1555,
+            -7.959,
+            -14.9365
+        ],
+        "R MB": [
+            2.513,
+            -7.9635,
+            -13.463
+        ],
+        "L MB": [
+            -2.853,
+            -8.271,
+            -13.936
+        ],
+        "pineal gland": [
+            0.2725,
+            -34.4745,
+            3.558
+        ],
+        "R LV at AC": [
+            16.213,
+            4.4325,
+            25.801
+        ],
+        "L LV at AC": [
+            -16.143,
+            4.4655,
+            25.685
+        ],
+        "R LV at PC": [
+            19.58,
+            -23.463,
+            28.507
+        ],
+        "L LV at PC": [
+            -19.666,
+            -23.452,
+            27.885
+        ],
+        "genu of CC": [
+            0.025,
+            33.2105,
+            3.1305
+        ],
+        "splenium": [
+            0.563,
+            -39.4115,
+            7.6585
+        ],
+        "R AL temporal horn": [
+            34.341,
+            -4.7005,
+            -26.1515
+        ],
+        "L AL temporal horn": [
+            -33.368,
+            -5.6025,
+            -22.4175
+        ],
+        "R superior AM temporal horn": [
+            17.6445,
+            -10.098,
+            -18.0085
+        ],
+        "L superior AM temporal horn": [
+            -18.851,
+            -9.6085,
+            -19.1485
+        ],
+        "R inferior AM temporal horn": [
+            20.57,
+            -5.055,
+            -27.248
+        ],
+        "L inferior AM temporal horn": [
+            -19.613,
+            -5.212,
+            -26.086
+        ],
+        "R indusium griseum origin": [
+            12.5145,
+            -43.3165,
+            6.002
+        ],
+        "L indusium griseum origin": [
+            -13.21,
+            -43.0065,
+            6.5705
+        ],
+        "R ventral occipital horn": [
+            19.5905,
+            -83.6925,
+            3.927
+        ],
+        "L ventral occipital horn": [
+            -18.1015,
+            -84.7275,
+            -0.1355
+        ],
+        "R olfactory sulcal fundus": [
+            12.4725,
+            20.1715,
+            -11.854
+        ],
+        "L olfactory sulcal fundus": [
+            -12.385,
+            20.7985,
+            -11.4635
+        ]
+    }
+}
