@@ -1,5 +1,5 @@
 # afids-data
-##Curated anatomical landmarks placements for common neuroimaging datasets
+#Curated anatomical landmarks placements for common neuroimaging datasets
 
 In this GitHub repository, you can find: 
 
