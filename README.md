@@ -9,7 +9,7 @@ Magnetic resonance imaging datasets with anatomical fiducials for quality contro
 
 ## Compressed NIfTI-1 format (i.e., .nii.gz extension) for datasets involved in this study are availible on OpenNeuro: 
 
-1) 7T Seterotactic Neurosurgery Healthy Control Dataset (SNSX; n = 32): 
-2) London Health Sciences Center Parkinson's Disease Dataset (LHSC-PD ; n = 40): 
+1) 7T Seterotactic Neurosurgery Healthy Control Dataset (SNSX; n = 32): doi:10.18112/openneuro.ds004241.v1.0.0
+2) London Health Sciences Center Parkinson's Disease Dataset (LHSC-PD ; n = 40): Awaiting ethics approval for release  
 3) 100 Unrelated Humman Connectome Project subset (HCP; n = 30): 
 4) Open Access Series of Imaging Studies subset (OASIS; n = 30):
