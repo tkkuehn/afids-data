@@ -11,5 +11,5 @@ Magnetic resonance imaging datasets with anatomical fiducials for quality contro
 
 1) Stereotactic Neurosurgery 7T Control Dataset (SNSX; n = 32): https://openneuro.org/datasets/ds004241/versions/1.0.0
 2) London Health Sciences Center Parkinson's Disease Dataset (LHSC-PD ; n = 40): Awaiting ethics approval for release of scans; .fcsv available    
-3) 100 Unrelated Humman Connectome Project subset (HCP; n = 30): 
+3) 100 Unrelated Humman Connectome Project subset (HCP; n = 30): https://openneuro.org/datasets/ds004253/versions/1.0.0 
 4) Open Access Series of Imaging Studies subset (OASIS; n = 30):
